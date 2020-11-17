@@ -47,3 +47,4 @@ version(KernSmooth)
 help(package="devtools")
 browseVignettes("devtools")
 
+install.packages("rmarkdown")
